@@ -13,13 +13,6 @@ console.log(nombre1 + ' ' + nombre2 + ' ' + nombre3)
 
 let numero = 5;
 
-function sumar(numero1, numero2=0) {
-    let suma = numero1 + numero2;
-    return suma
-}
-
-console.log(sumar (numero, 45));
-
 
 //Constantes
 

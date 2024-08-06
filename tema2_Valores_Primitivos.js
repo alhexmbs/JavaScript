@@ -1,3 +1,5 @@
+/*Hay 5 valores primitivos en JS*/
+
 //string
 
 let string1 = 'string';

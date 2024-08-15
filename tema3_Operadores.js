@@ -68,3 +68,14 @@ console.log(a === 10);
 console.log(a != 12) //Desigualdad por valor.
 console.log(a != '12')
 console.log(a !== 10) /*Desigualdad por identidad, tipo y valor; o igualdad estricta.*/
+
+let otherVar = 15;
+
+otherVar += 5;
+console.log(otherVar);
+
+otherVar += 9;
+console.log(otherVar);
+
+//Operadores lógicos
+console.log(a > 10 && b > 2);

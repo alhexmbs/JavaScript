@@ -19,4 +19,4 @@ let no_definido = undefined;
 
 // symbol
 
-let mySymbol = Symbol('nombre del simbolo')
+let mySymbol = Symbol('nombre del simbolo');

@@ -1,5 +1,8 @@
-let mi_nombre = 'aLEX bUrga Silva';
+const person = {
+    nombre: 'juanito',
+    saludo: function() {
+        console.log("Hola " + this.nombre);
+    }
+};
 
-longitud = mi_nombre.length
-
-console.log(longitud);
+person.saludo();
